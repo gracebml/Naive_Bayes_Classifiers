@@ -4,16 +4,6 @@ This project implements a **spam email classifier** using **Multinomial Naive Ba
 
 ---
 
-## 📂 Project Structure
-├── naive_bayes_classifiers.py # Multinomial Naive Bayes implementation (NumPy / SciPy)
-├── process_data.py # Data cleaning + BOW vectorizer
-├── requirements.txt # Required dependencies
-├── submit.ipynb # Training notebook
-└── Report.pdf # Project report
-
-
----
-
 ## Features
 
 - Custom **Multinomial Naive Bayes** with Laplace smoothing
